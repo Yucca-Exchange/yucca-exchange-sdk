@@ -14,7 +14,7 @@ describe('constants', () => {
     // })
     //TODO: Replace with real PancakePair.json
     it('matches computed bytecode hash', () => {
-      expect(INIT_CODE_HASH).toEqual('0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66')
+      expect(INIT_CODE_HASH).toEqual('0x6ab89523066ffcf2edbcc46cf420ce5f57393d97f05827dfaf6abcf0d3b82efa')
     })
   })
 })

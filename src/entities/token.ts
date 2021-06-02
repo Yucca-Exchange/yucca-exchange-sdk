@@ -64,8 +64,8 @@ export const WETH = {
     'WAVAX',
     'Wrapped AVAX'
   ),
-  [ChainId.BSCTESTNET]: new Token(
-    ChainId.BSCTESTNET,
+  [ChainId.FUJICHAIN]: new Token(
+    ChainId.FUJICHAIN,
     '0xd00ae08403B9bbb9124bB305C09058E32C39A48c',
     18,
     'WAVAX',
